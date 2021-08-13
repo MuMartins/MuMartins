@@ -16,5 +16,5 @@
   <img alt="Murillo-CSS" height="auto" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Murillo-Python" height="auto" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://github.com/MuMartins">
-  <img align="right" height="280em" src="https://github-readme-stats.vercel.app/api?username=MuMartins&show_icons=true&theme=dark&locale=pt-br">
+  <img align="right" height="250em" src="https://github-readme-stats.vercel.app/api?username=MuMartins&show_icons=true&theme=dark&locale=pt-br">
 </div>
