@@ -11,7 +11,7 @@
 - 🤔 Adoro aprender coisas novas!
 - 📫 Como entrar em contato comigo: murillomartins@uol.com.br
 
-<div><br>
+<div align="center"><br>
   <img alt="Murillo-HTML" height="auto" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Murillo-CSS" height="auto" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Murillo-Python" height="auto" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
