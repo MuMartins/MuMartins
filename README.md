@@ -6,14 +6,11 @@
 
 - 🤖 I'm currently participating in the [AC/DC/EG](https://www.facebook.com/acdceg/) robotics team 
 - 🏫 I'm in the first year of high school 
-- 📚 I'm learning HTML5 e CSS3
+- 📚 I'm learning micropython for ev3 and robot inventor kit
 - 🤔 I love to learn new things!
 - 📫 How to reach me: murillomartins@uol.com.br
 
-<div align="center"><br>
-  <img alt="Murillo-HTML" height="auto" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Murillo-CSS" height="auto" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Murillo-Python" height="auto" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://github.com/MuMartins">
-  <img align="right" height="250em" src="https://github-readme-stats.vercel.app/api?username=MuMartins&show_icons=true&theme=dark">
+
+<div align="center">
+  <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=MuMartins&show_icons=true&theme=dark">
 </div>
