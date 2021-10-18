@@ -8,5 +8,5 @@
 
 
 <div align="center">
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api?username=MuMartins&show_icons=true&theme=dark">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=MuMartins&show_icons=true&theme=dark">
 </div>
